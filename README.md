@@ -1,7 +1,7 @@
 # Image Colorization and Morphological filtering based Instance Segmentation
 
 <p align="center">
-  <img src="Part_A/InputImages/01112v.jpg" alt="Image description" width="300" height="300">
+  <img src="Images/OpenCV_logo_no_text.png" alt="Image description" width="300" height="300">
 </p>
 
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
@@ -30,8 +30,9 @@
 ### Frame Detection
 
 The input images are of the following form:
+
 <p align="center">
-  <img src="Images/OpenCV_logo_no_text.png" alt="Image description" width="300" height="300">
+  <img src="Part_A/InputImages/01112v.jpg" alt="Image description" width="300" height="300">
 </p>
 
 ## Installation
