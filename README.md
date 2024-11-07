@@ -151,3 +151,11 @@ The output image after perform Otsu's thresholding is the following:
 <p align="center">
   <img src="Images/thresh_otsus.png" alt="Image description"  height="300">
 </p>
+
+### Morphological Filtering:
+
+We then perform Morphological filtering by means of erosion and dilation to fill in any holes and give the thresholded values a high connectivity. The result of the above filtering process is as follows:
+
+<p align="center">
+  <img src="Images/Binary_after.png" alt="Image description"  height="300">
+</p>
