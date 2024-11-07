@@ -17,7 +17,7 @@
 
 
 ## Table of Contents
-- [Part A](#Part_A)
+- [PartA](#PartA)
   - [Frame Detection](#Frame_Detection)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -25,7 +25,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Part A
+## PartA
 - 🚀 Fast and efficient
 - 🔒 Secure and reliable
 - 🎨 Beautifully designed
