@@ -17,7 +17,7 @@
 
 
 ## Table of Contents
-- [PartA](#PartA)
+- [PartA](#Part_A)
   - [Frame Detection](#Frame_Detection)
 - [Installation](#installation)
 - [Usage](#usage)
