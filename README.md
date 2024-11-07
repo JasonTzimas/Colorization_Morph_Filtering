@@ -68,12 +68,35 @@ Having found the matching image coordinates we append them together to from a si
 
 First create a virual environment by running:
 
-```bash
-conda create <your_environment_name>
-```
-for conda 
-
+1. Using _Conda_:
+  ```bash
+  conda create <your_environment_name>
+  ```
+2. Using _venv_
 ```bash
 python -m venv <your_environment_name>
 ```
-for venv
+
+Then, activate your environment:
+
+1. Using _Conda_:
+  ```bash
+  conda activate <your_environment_name>
+  ```
+
+2. Using _venv_:
+   ```bash
+   cd <your_environment_name>/bin
+   source ./activate ## For Linux
+   ```
+   or
+   ```bash
+    cd <your_environment_name>/Scripts
+    ./activate  ## For Windows
+   ```
+
+ Finally, install the requirements.txt file:
+
+ ```bash
+ pip install -r requirements.txt
+ ```
