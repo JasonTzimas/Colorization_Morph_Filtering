@@ -19,6 +19,7 @@
 ## Table of Contents
 - [Part A](#Part_A)
   - [Frame Detection](#frame-detection)
+  - [Template Matching and Normalized Cross Correlation (NCC)](#ncc)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
@@ -36,6 +37,10 @@ The input images are of the following form:
   <img src="Part_A/InputImages/00125v.jpg" alt="Image 1" width="200" style="border: 2px solid black; margin-right: 10px;">
   <img src="Part_A/InputImages/00149v.jpg" alt="Image 1" width="200" style="border: 2px solid black; margin-right: 10px;">
 </p>
+
+The borders coordinates are detected using pixel-value histograms along dimensions x and y. The coordinates are then saved so that we can perform appropriate cropping
+
+### Template Matching and Normalized Cross Correlation (NCC)
 
 ## Installation
 
