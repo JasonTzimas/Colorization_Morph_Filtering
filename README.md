@@ -21,6 +21,7 @@
   - [Frame Detection](#frame-detection)
   - [Template Matching and Normalized Cross Correlation (NCC)](#template-matching-and-normalized-cross-correlation-ncc)
   - [Results](#results)
+  - [Installation](#installation)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
@@ -63,9 +64,16 @@ Having found the matching image coordinates we append them together to from a si
   <img src="Images/rgb55.png" alt="Image description" width="300" height="300">
 </p>
 
-## Installation
+### Installation
 
-To install the dependencies, run:
+First create a virual environment by running:
 
 ```bash
-pip install -r requirements.txt
+conda create <your_environment_name>
+```
+for conda 
+
+```bash
+python -m venv <your_environment_name>
+```
+for venv
