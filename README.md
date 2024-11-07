@@ -25,7 +25,7 @@
   - [Execution](#execution)
 - [Part B](#part-b)
   - [An Input Sample](#an-input-sample)
-  - [Otsu's threholding](#otsus-thresholding)
+  - [Otsu's thresholding](#otsus-thresholding)
   - [Morphological Filtering](#morphological-filtering)
 - [License](#license)
 
