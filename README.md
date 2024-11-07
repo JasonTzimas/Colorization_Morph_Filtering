@@ -17,8 +17,8 @@
 
 
 ## Table of Contents
-- [PartA](#Part_A)
-  - [Frame Detection](#Frame_Detection)
+- [Part A](#Part_A)
+  - [Frame Detection](#frame-detection)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
