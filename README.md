@@ -25,7 +25,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## PartA
+## Part_A
 - 🚀 Fast and efficient
 - 🔒 Secure and reliable
 - 🎨 Beautifully designed
