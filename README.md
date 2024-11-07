@@ -54,6 +54,14 @@ $$
 
 </div>
 
+### Results
+
+Having found the matching image coordinates we append them together to from a single RGB 3-Channel Image. A sample results is as follows:
+
+<p align="center">
+  <img src="Images/rgb55.png" alt="Image description" width="300" height="300">
+</p>
+
 ## Installation
 
 To install the dependencies, run:
