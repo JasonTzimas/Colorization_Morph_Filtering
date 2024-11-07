@@ -17,7 +17,7 @@
 
 
 ## Table of Contents
-- [Features](#features)
+- [Part A](#Part_A)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
