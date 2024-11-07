@@ -18,16 +18,19 @@
 
 ## Table of Contents
 - [Part A](#Part_A)
+  - [Frame Detection](#Frame_Detection)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
+## Part A
 - 🚀 Fast and efficient
 - 🔒 Secure and reliable
 - 🎨 Beautifully designed
+
+### Frame Detection
 
 ## Installation
 
