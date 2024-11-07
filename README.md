@@ -55,7 +55,9 @@ $$
 
 , where: 
 <div align="center" style="font-size: 12px;">
-$$H, W: \text{are the image Height and Width}$$
+$$
+H, W: \text{are the image Height and Width}
+$$
 </div>
 <div align="center" style="font-size: 12px;">
 $$I_1, I_2: \text{are the two Images}$$
