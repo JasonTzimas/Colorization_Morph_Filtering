@@ -168,3 +168,6 @@ Then, a connected-component algorithm using either 4-connectivity or 8-connectiv
   <img src="Images/labeled_image.png" alt="Image description"  height="300">
 </p>
 
+<p align="center">
+  <img src="Images/labeled_vs_original.png" alt="Image description"  height="300">
+</p>
