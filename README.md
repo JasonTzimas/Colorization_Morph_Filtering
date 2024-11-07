@@ -124,3 +124,9 @@ if you want to provide your own image.
 ### Otsu's threholding:
 
 The first part of instance segmentation is using Otsu's thresholding method to get a pixel-intensity threshold, fine tuned in a way that leads to maximum cluster separation
+
+The output image after perform Otsu's thresholding is the following:
+
+<p align="center">
+  <img src="Part_B/can.jpg" alt="Image description"  height="300">
+</p>
