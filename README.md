@@ -53,9 +53,17 @@ NCC = \sum_{i=1}^{W} \sum_{j=1}^{H} \frac{I_1(i, j) - \mu_1}{\sigma_1} * \frac{I
 $$
 </div>
 
-, where: $$H, W: \text{are the image Height and Width}$$
-         $$I_1, I_2: \text{are the two Images}$$
-         $$ \mu_1, \mu_2, \simga_1, \sigma_2: \text{are the two Image mean and std values}$$
+, where: 
+<div align="center" style="font-size: 12px;">
+$$H, W: \text{are the image Height and Width}$$
+</div>
+<div align="center" style="font-size: 12px;">
+$$I_1, I_2: \text{are the two Images}$$
+</div>
+
+<div align="center" style="font-size: 12px;">
+$$ \mu_1, \mu_2, \simga_1, \sigma_2: \text{are the two Image mean and std values}$$
+</div>
 
 ### Results
 
