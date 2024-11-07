@@ -28,7 +28,7 @@
   - [Otsu's thresholding](#otsus-thresholding)
   - [Morphological Filtering](#morphological-filtering)
   - [Connected Components](#connected-components)
-  - [Hue moments, dominant orientations and Centroids](#hue-moments,-dominant-orientations-and-centroids)
+  - [Hue moments, dominant orientations and Centroids](#hue-moments-dominant-orientations-and-centroids)
 - [License](#license)
 
 ## Part_A
