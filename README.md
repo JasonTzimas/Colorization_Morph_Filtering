@@ -128,5 +128,5 @@ The first part of instance segmentation is using Otsu's thresholding method to g
 The output image after perform Otsu's thresholding is the following:
 
 <p align="center">
-  <img src="Part_B/can.jpg" alt="Image description"  height="300">
+  <img src="Images/thresh_otsus.png" alt="Image description"  height="300">
 </p>
