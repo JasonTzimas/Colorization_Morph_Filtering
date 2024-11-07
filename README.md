@@ -54,6 +54,27 @@ $$
 
 </div>
 
+, where: 
+<div align="center" style="font-size: 12px;">
+  
+$$
+H, W: \text{are the image Height and Width}
+$$
+
+</div>
+
+<div align="center" style="font-size: 12px;">
+  
+$$I_1, I_2: \text{are the two Images}$$
+
+</div>
+
+<div align="center" style="font-size: 12px;">
+  
+$$ \mu_1, \mu_2, \sigma_1, \sigma_2: \text{are the two Image mean and std values}$$
+
+</div>
+
 ### Results
 
 Having found the matching image coordinates we append them together to from a single RGB 3-Channel Image. A sample results is as follows:
@@ -128,5 +149,33 @@ The first part of instance segmentation is using Otsu's thresholding method to g
 The output image after perform Otsu's thresholding is the following:
 
 <p align="center">
-  <img src="Part_B/can.jpg" alt="Image description"  height="300">
+  <img src="Images/thresh_otsus.png" alt="Image description"  height="300">
+</p>
+
+### Morphological Filtering:
+
+We then perform Morphological filtering by means of erosion and dilation to fill in any holes and give the thresholded values a high connectivity. The result of the above filtering process is as follows:
+
+<p align="center">
+  <img src="Images/Binary_after.png" alt="Image description"  height="300">
+</p>
+
+### Connected Components:
+
+Then, a connected-component algorithm using either 4-connectivity or 8-connectivity kernels is implemented to identify the distinct objects present in the image, leading to the following masks:
+
+<p align="center">
+  <img src="Images/labeled_image.png" alt="Image description"  height="300">
+</p>
+
+<p align="center">
+  <img src="Images/labeled_vs_original.png" alt="Image description"  height="300">
+</p>
+
+### Hue moments, dominant orientations and Centroids
+
+Hue moments are used to identify the main object axes and centroids as follows:
+
+<p align="center">
+  <img src="Images/centroids_rotations.png" alt="Image description"  height="300">
 </p>
