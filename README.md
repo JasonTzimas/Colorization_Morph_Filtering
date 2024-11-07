@@ -41,7 +41,7 @@ The input images are of the following form:
 The borders coordinates are detected using pixel-value histograms along dimensions x and y. The coordinates are then saved so that we can perform appropriate cropping
 
 ### Template Matching and Normalized Cross Correlation (NCC)
-
+$a = \sum_{i=1}^{N}$
 ## Installation
 
 To install the dependencies, run:
