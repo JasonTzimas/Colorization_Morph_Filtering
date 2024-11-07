@@ -145,7 +145,7 @@ if you want to provide your own image.
   <img src="Part_B/can.jpg" alt="Image description"  height="300">
 </p>
 
-### Otsu's threholding
+### Otsu's thresholding
 
 The first part of instance segmentation is using Otsu's thresholding method to get a pixel-intensity threshold, fine tuned in a way that leads to maximum cluster separation
 
