@@ -25,9 +25,14 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Part_A: Image Colorization
+## Part_A
 
 ### Frame Detection
+
+The input images are of the following form:
+<p align="center">
+  <img src="Images/OpenCV_logo_no_text.png" alt="Image description" width="300" height="300">
+</p>
 
 ## Installation
 
