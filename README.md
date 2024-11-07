@@ -8,7 +8,10 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/username/project/actions)
 
 ## Description
-My Awesome Project is a tool to help you accomplish amazing things with minimal effort.
+1. --PartA--:
+Educational Code that implements Image colorization from scratch by first cropping 3 images of different channels from a single image, aligns them using Normalized Cross Correlation (NCC) and then combines them in different permutations to give the final RGB Image.
+
+
 
 ## Table of Contents
 - [Features](#features)
