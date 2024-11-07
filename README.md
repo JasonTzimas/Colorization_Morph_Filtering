@@ -25,10 +25,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Part_A
-- 🚀 Fast and efficient
-- 🔒 Secure and reliable
-- 🎨 Beautifully designed
+## Part_A: Image Colorization
 
 ### Frame Detection
 
