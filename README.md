@@ -1,7 +1,5 @@
 # Image Colorization and Morphological filtering based Instance Segmentation
 
-# My Awesome Project
-
 <p align="center">
   <img src="Images/OpenCV_logo_no_text.png" alt="Image description" width="300" height="300">
 </p>
