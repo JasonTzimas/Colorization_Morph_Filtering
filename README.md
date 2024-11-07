@@ -118,7 +118,7 @@ if you want to provide your own image.
 ### An Input sample:
 
 <p align="center">
-  <img src="Part_B/can.jpg" alt="Image description" width="300" height="300">
+  <img src="Part_B/can.jpg" alt="Image description"  height="300">
 </p>
 
 ### Otsu's threholding:
