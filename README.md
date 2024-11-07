@@ -32,9 +32,9 @@
 The input images are of the following form:
 
 <p align="center">
-  <img src="Part_A/InputImages/01112v.jpg" alt="Image 1" width="200">
-  <img src="Part_A/InputImages/00125v.jpg" alt="Image 1" width="200">
-  <img src="Part_A/InputImages/00149v.jpg" alt="Image 1" width="200">
+  <img src="Part_A/InputImages/01112v.jpg" alt="Image 1" width="200" style="border: 2px solid black; margin-right: 10px;">>
+  <img src="Part_A/InputImages/00125v.jpg" alt="Image 1" width="200" >
+  <img src="Part_A/InputImages/00149v.jpg" alt="Image 1" width="200" style="border: 2px solid black; margin-right: 10px;">>
 </p>
 
 ## Installation
