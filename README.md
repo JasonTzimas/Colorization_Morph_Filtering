@@ -3,7 +3,7 @@
 # My Awesome Project
 
 <p align="center">
-  <img src="path/to/your/image.png" alt="Image description" width="300" height="300">
+  <img src="Images/OpenCV_logo_no_text.png" alt="Image description" width="300" height="300">
 </p>
 
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
