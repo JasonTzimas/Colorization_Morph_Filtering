@@ -26,6 +26,7 @@
 - [Part B](#part-b)
   - [An Input Sample](#an-input-sample)
   - [Otsu's threholding](#otsu's-thresholding)
+  - [Morphological Filtering](#morphological-filtering)
 - [License](#license)
 
 ## Part_A
@@ -138,13 +139,13 @@ if you want to provide your own image.
 
 ## Part B
 
-### An Input sample:
+### An Input sample
 
 <p align="center">
   <img src="Part_B/can.jpg" alt="Image description"  height="300">
 </p>
 
-### Otsu's threholding:
+### Otsu's threholding
 
 The first part of instance segmentation is using Otsu's thresholding method to get a pixel-intensity threshold, fine tuned in a way that leads to maximum cluster separation
 
@@ -154,7 +155,7 @@ The output image after perform Otsu's thresholding is the following:
   <img src="Images/thresh_otsus.png" alt="Image description"  height="300">
 </p>
 
-### Morphological Filtering:
+### Morphological Filtering
 
 We then perform Morphological filtering by means of erosion and dilation to fill in any holes and give the thresholded values a high connectivity. The result of the above filtering process is as follows:
 
@@ -162,7 +163,7 @@ We then perform Morphological filtering by means of erosion and dilation to fill
   <img src="Images/Binary_after.png" alt="Image description"  height="300">
 </p>
 
-### Connected Components:
+### Connected Components
 
 Then, a connected-component algorithm using either 4-connectivity or 8-connectivity kernels is implemented to identify the distinct objects present in the image, leading to the following masks:
 
