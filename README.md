@@ -41,7 +41,13 @@ The input images are of the following form:
 The borders coordinates are detected using pixel-value histograms along dimensions x and y. The coordinates are then saved so that we can perform appropriate cropping
 
 ### Template Matching and Normalized Cross Correlation (NCC)
-$a = \sum_{i=1}^{N}$
+
+After having cropped the images we perform zero-padding and we get the matching coordinates by finding the maximum NCC score while sliding one image on top of the other across x-y axes.
+
+For a given alignment the NCC metric is given by:
+
+$NCC = \sum_{i=1}^{W} \sum_{j=1}^{H} \frac{I_1(i, j) - \mu_1}{\sigma_1} * \frac{I_2(i, j) - \mu_2}{\sigma_2}$
+
 ## Installation
 
 To install the dependencies, run:
