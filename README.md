@@ -19,7 +19,7 @@
 ## Table of Contents
 - [Part A](#Part_A)
   - [Frame Detection](#frame-detection)
-  - [Template Matching and Normalized Cross Correlation (NCC)](#Template-Matching-and-Normalized-Cross-Correlation (NCC))
+  - [Template Matching and Normalized Cross Correlation (NCC)](#template-matching-and-normalized-cross-correlation-ncc)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
