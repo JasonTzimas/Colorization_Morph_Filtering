@@ -159,3 +159,12 @@ We then perform Morphological filtering by means of erosion and dilation to fill
 <p align="center">
   <img src="Images/Binary_after.png" alt="Image description"  height="300">
 </p>
+
+### Connected Components:
+
+Then, a connected-component algorithm using either 4-connectivity or 8-connectivity kernels is implemented to identify the distinct objects present in the image, leading to the following masks:
+
+<p align="center">
+  <img src="Images/labeled_image.png" alt="Image description"  height="300">
+</p>
+
