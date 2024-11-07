@@ -20,6 +20,7 @@
 - [Part A](#Part_A)
   - [Frame Detection](#frame-detection)
   - [Template Matching and Normalized Cross Correlation (NCC)](#template-matching-and-normalized-cross-correlation-ncc)
+  - [Results](#results)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
