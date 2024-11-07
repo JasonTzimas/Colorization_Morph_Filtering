@@ -23,10 +23,7 @@
   - [Results](#results)
   - [Installation](#installation)
   - [Execution](#execution)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
+-[Part B](#part-b)
 - [License](#license)
 
 ## Part_A
@@ -114,3 +111,6 @@ To reproduce the result above or
 python get_rgb.py path/to/your/image output_folder_name
 ```
 if you want to provide your own image.
+
+
+## Part B
