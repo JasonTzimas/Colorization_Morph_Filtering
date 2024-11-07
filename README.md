@@ -51,11 +51,11 @@ For a given alignment the NCC metric is given by:
 $$
 NCC = \sum_{i=1}^{W} \sum_{j=1}^{H} \frac{I_1(i, j) - \mu_1}{\sigma_1} * \frac{I_2(i, j) - \mu_2}{\sigma_2}
 $$
+</div>
 
 , where: $$H, W: \text{are the image Height and Width}$$
          $$I_1, I_2: \text{are the two Images}$$
          $$ \mu_1, \mu_2, \simga_1, \sigma_2: \text{are the two Image mean and std values}$$
-</div>
 
 ### Results
 
