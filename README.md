@@ -2,7 +2,7 @@
 
 # My Awesome Project
 
-![Logo](Images/OpenCV_logo_no_text.png)
+<img src="Images/OpenCV_logo_no_text.png" alt="Alt Text" width="400"/>
 
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/username/project/actions)
