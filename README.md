@@ -112,11 +112,13 @@ Then, activate your environment:
    ```bash
    cd <your_environment_name>/bin
    source ./activate ## For Linux
+   cd ../..
    ```
    or
    ```bash
     cd <your_environment_name>/Scripts
-    ./activate  ## For Windows
+    activate  ## For Windows
+    cd ../..
    ```
 
  Finally, install the requirements.txt file:
