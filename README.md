@@ -100,3 +100,16 @@ Then, activate your environment:
  ```bash
  pip install -r requirements.txt
  ```
+
+### Execution
+
+Run:
+```bash
+python get_rgb.py PartA/InputImages/01112v.jpg <your_output_folder>
+```
+To reproduce the result above or
+
+```bash
+python get_rgb.py path/to/your/image output_folder_name
+```
+if you want to provide your own image.
