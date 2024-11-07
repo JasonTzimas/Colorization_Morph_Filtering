@@ -23,7 +23,7 @@
   - [Results](#results)
   - [Installation](#installation)
   - [Execution](#execution)
--[Part B](#part-b)
+- [Part B](#part-b)
 - [License](#license)
 
 ## Part_A
