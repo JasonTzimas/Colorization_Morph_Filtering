@@ -46,7 +46,13 @@ After having cropped the images we perform zero-padding and we get the matching 
 
 For a given alignment the NCC metric is given by:
 
-$NCC = \sum_{i=1}^{W} \sum_{j=1}^{H} \frac{I_1(i, j) - \mu_1}{\sigma_1} * \frac{I_2(i, j) - \mu_2}{\sigma_2}$
+<div align="center" style="font-size: 20px;">
+
+$$
+NCC = \sum_{i=1}^{W} \sum_{j=1}^{H} \frac{I_1(i, j) - \mu_1}{\sigma_1} * \frac{I_2(i, j) - \mu_2}{\sigma_2}
+$$
+
+</div>
 
 ## Installation
 
