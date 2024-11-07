@@ -22,6 +22,7 @@
   - [Template Matching and Normalized Cross Correlation (NCC)](#template-matching-and-normalized-cross-correlation-ncc)
   - [Results](#results)
   - [Installation](#installation)
+  - [Execution](#execution)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
