@@ -24,6 +24,8 @@
   - [Installation](#installation)
   - [Execution](#execution)
 - [Part B](#part-b)
+  - [An Input Sample](#an-input-sample)
+  - [Otsu's threholding](#otsus-thresholding)
 - [License](#license)
 
 ## Part_A
@@ -179,3 +181,54 @@ Hue moments are used to identify the main object axes and centroids as follows:
 <p align="center">
   <img src="Images/centroids_rotations.png" alt="Image description"  height="300">
 </p>
+
+
+### Installation
+
+First create a virual environment by running:
+
+1. Using _Conda_:
+  ```bash
+  conda create <your_environment_name>
+  ```
+2. Using _venv_
+```bash
+python -m venv <your_environment_name>
+```
+
+Then, activate your environment:
+
+1. Using _Conda_:
+  ```bash
+  conda activate <your_environment_name>
+  ```
+
+2. Using _venv_:
+   ```bash
+   cd <your_environment_name>/bin
+   source ./activate ## For Linux
+   ```
+   or
+   ```bash
+    cd <your_environment_name>/Scripts
+    ./activate  ## For Windows
+   ```
+
+ Finally, install the requirements.txt file:
+
+ ```bash
+ pip install -r requirements.txt
+ ```
+
+### Execution
+
+Run:
+```bash
+python instance_segmentation.py PartB/can.jpg <your_output_folder>
+```
+To reproduce the result above or
+
+```bash
+python instance_segmentation.py path/to/your/image output_folder_name
+```
+if you want to provide your own image.
