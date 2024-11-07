@@ -114,3 +114,13 @@ if you want to provide your own image.
 
 
 ## Part B
+
+### An Input sample:
+
+<p align="center">
+  <img src="Images/rgb55.png" alt="Image description" width="300" height="300">
+</p>
+
+### Otsu's threholding:
+
+The first part of instance segmentation is using Otsu's thresholding method to get a pixel-intensity threshold, fine tuned in a way that leads to maximum cluster separation
